@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAddress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Address>
+    <AddressID>1</AddressID>
+    <AppartmentNo>G</AppartmentNo>
+    <BuildingNo>1548</BuildingNo>
+    <Street>Seaforth</Street>
+    <City>Montreal</City>
+    <Province>Quebec</Province>
+    <Country>Canada</Country>
+    <PostalCode>H8H6F9</PostalCode>
+    <Comment>Address1</Comment>
+  </Address>
+  <Address>
+    <AddressID>2</AddressID>
+    <AppartmentNo>F</AppartmentNo>
+    <BuildingNo>8956</BuildingNo>
+    <Street>MailStone</Street>
+    <City>Toronto</City>
+    <Province>Ontario</Province>
+    <Country>Canada</Country>
+    <PostalCode>G4F7B2</PostalCode>
+    <Comment>Another Address</Comment>
+  </Address>
+  <Address>
+    <AddressID>3</AddressID>
+    <AppartmentNo>H</AppartmentNo>
+    <BuildingNo>5500</BuildingNo>
+    <Street>Decaree</Street>
+    <City>Montreal</City>
+    <Province>Quebec</Province>
+    <Country>Canada</Country>
+    <PostalCode>M2H2W8</PostalCode>
+    <Comment>Address3</Comment>
+  </Address>
+</ArrayOfAddress>

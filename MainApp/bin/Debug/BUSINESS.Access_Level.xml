@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccess_Level xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Access_Level>
+    <AcessID>1</AcessID>
+    <AcessKey>11        </AcessKey>
+    <Description>Managers</Description>
+  </Access_Level>
+  <Access_Level>
+    <AcessID>2</AcessID>
+    <AcessKey>22        </AcessKey>
+    <Description>Sales Manager</Description>
+  </Access_Level>
+  <Access_Level>
+    <AcessID>3</AcessID>
+    <AcessKey>33        </AcessKey>
+    <Description>Inventory controller</Description>
+  </Access_Level>
+  <Access_Level>
+    <AcessID>4</AcessID>
+    <AcessKey>44        </AcessKey>
+    <Description>Order Clerks</Description>
+  </Access_Level>
+</ArrayOfAccess_Level>

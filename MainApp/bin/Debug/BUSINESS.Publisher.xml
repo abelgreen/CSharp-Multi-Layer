@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPublisher xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Publisher>
+    <PublisherID>6</PublisherID>
+    <Name>John-Wheily</Name>
+    <Phone>514-855-2345</Phone>
+    <Email>john-wheily@qwe.com</Email>
+    <Fax i:nil="true" />
+    <AddressID>1</AddressID>
+  </Publisher>
+  <Publisher>
+    <PublisherID>7</PublisherID>
+    <Name>Elseveer</Name>
+    <Phone>514-458-8574</Phone>
+    <Email>elseveer@test.com</Email>
+    <Fax i:nil="true" />
+    <AddressID>2</AddressID>
+  </Publisher>
+</ArrayOfPublisher>

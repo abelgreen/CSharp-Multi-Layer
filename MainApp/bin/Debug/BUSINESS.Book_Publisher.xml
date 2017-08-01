@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook_Publisher xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Book_Publisher>
+    <BookID>1</BookID>
+    <PublisherID>6</PublisherID>
+  </Book_Publisher>
+  <Book_Publisher>
+    <BookID>2</BookID>
+    <PublisherID>6</PublisherID>
+  </Book_Publisher>
+  <Book_Publisher>
+    <BookID>3</BookID>
+    <PublisherID>7</PublisherID>
+  </Book_Publisher>
+  <Book_Publisher>
+    <BookID>4</BookID>
+    <PublisherID>7</PublisherID>
+  </Book_Publisher>
+</ArrayOfBook_Publisher>

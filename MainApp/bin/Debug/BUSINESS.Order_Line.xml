@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder_Line xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Order_Line>
+    <OrderID>1</OrderID>
+    <InvtoryID>1</InvtoryID>
+    <OL_QTY>200</OL_QTY>
+  </Order_Line>
+  <Order_Line>
+    <OrderID>1</OrderID>
+    <InvtoryID>2</InvtoryID>
+    <OL_QTY>100</OL_QTY>
+  </Order_Line>
+  <Order_Line>
+    <OrderID>1</OrderID>
+    <InvtoryID>3</InvtoryID>
+    <OL_QTY>56</OL_QTY>
+  </Order_Line>
+  <Order_Line>
+    <OrderID>2</OrderID>
+    <InvtoryID>2</InvtoryID>
+    <OL_QTY>44</OL_QTY>
+  </Order_Line>
+  <Order_Line>
+    <OrderID>3</OrderID>
+    <InvtoryID>1</InvtoryID>
+    <OL_QTY>150</OL_QTY>
+  </Order_Line>
+  <Order_Line>
+    <OrderID>3</OrderID>
+    <InvtoryID>3</InvtoryID>
+    <OL_QTY>456</OL_QTY>
+  </Order_Line>
+</ArrayOfOrder_Line>

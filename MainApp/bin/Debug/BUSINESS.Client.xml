@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Client>
+    <ClientID>1</ClientID>
+    <FirstName>Sam</FirstName>
+    <LastNmae>Anderson</LastNmae>
+    <FaxNO>255-458-895</FaxNO>
+    <PhoneNumber>514-857-4589</PhoneNumber>
+    <Email>sam.Anderson@gmail.com</Email>
+    <AddressID>2</AddressID>
+    <CreditID>10</CreditID>
+  </Client>
+  <Client>
+    <ClientID>2</ClientID>
+    <FirstName>Joan</FirstName>
+    <LastNmae>Cardief</LastNmae>
+    <FaxNO>854-568-8574</FaxNO>
+    <PhoneNumber>314-857-8596</PhoneNumber>
+    <Email>joan.cardief@abc.com</Email>
+    <AddressID>3</AddressID>
+    <CreditID>14</CreditID>
+  </Client>
+</ArrayOfClient>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfInventory xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Inventory>
+    <InventoryID>1</InventoryID>
+    <BookID>1</BookID>
+    <Inv_Price>125.25</Inv_Price>
+    <Inv_QOH>500</Inv_QOH>
+  </Inventory>
+  <Inventory>
+    <InventoryID>2</InventoryID>
+    <BookID>2</BookID>
+    <Inv_Price>99.99</Inv_Price>
+    <Inv_QOH>1500</Inv_QOH>
+  </Inventory>
+  <Inventory>
+    <InventoryID>3</InventoryID>
+    <BookID>3</BookID>
+    <Inv_Price>89.99</Inv_Price>
+    <Inv_QOH>5000</Inv_QOH>
+  </Inventory>
+  <Inventory>
+    <InventoryID>0</InventoryID>
+    <BookID>0</BookID>
+    <Inv_Price>0</Inv_Price>
+    <Inv_QOH i:nil="true" />
+  </Inventory>
+</ArrayOfInventory>

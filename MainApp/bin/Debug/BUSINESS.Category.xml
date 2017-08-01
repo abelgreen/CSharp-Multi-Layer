@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Category>
+    <CategoryID>1</CategoryID>
+    <Category1 i:nil="true" />
+  </Category>
+  <Category>
+    <CategoryID>2</CategoryID>
+    <Category1 i:nil="true" />
+  </Category>
+  <Category>
+    <CategoryID>3</CategoryID>
+    <Category1 i:nil="true" />
+  </Category>
+  <Category>
+    <CategoryID>4</CategoryID>
+    <Category1 i:nil="true" />
+  </Category>
+  <Category>
+    <CategoryID>5</CategoryID>
+    <Category1 i:nil="true" />
+  </Category>
+</ArrayOfCategory>

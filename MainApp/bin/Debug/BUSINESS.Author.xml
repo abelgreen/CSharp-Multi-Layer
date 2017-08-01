@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Author>
+    <AuthorID>1</AuthorID>
+    <FirstName>James</FirstName>
+    <LastName>Moorgan</LastName>
+    <Email>james.moorgan@abc.com</Email>
+    <AddressID>2</AddressID>
+  </Author>
+  <Author>
+    <AuthorID>2</AuthorID>
+    <FirstName>Mitra</FirstName>
+    <LastName>Strieel</LastName>
+    <Email>mitra.strieel@abc.com</Email>
+    <AddressID>1</AddressID>
+  </Author>
+</ArrayOfAuthor>

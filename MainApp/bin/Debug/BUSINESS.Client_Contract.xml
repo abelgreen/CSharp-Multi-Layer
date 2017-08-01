@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient_Contract xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Client_Contract>
+    <ContractID>1</ContractID>
+    <ClientID>1</ClientID>
+    <ClerckID>2</ClerckID>
+    <Date>2016-08-08T00:00:00</Date>
+  </Client_Contract>
+  <Client_Contract>
+    <ContractID>2</ContractID>
+    <ClientID>1</ClientID>
+    <ClerckID>2</ClerckID>
+    <Date>2016-02-09T00:00:00</Date>
+  </Client_Contract>
+  <Client_Contract>
+    <ContractID>2</ContractID>
+    <ClientID>2</ClientID>
+    <ClerckID>2</ClerckID>
+    <Date>2015-05-06T00:00:00</Date>
+  </Client_Contract>
+</ArrayOfClient_Contract>

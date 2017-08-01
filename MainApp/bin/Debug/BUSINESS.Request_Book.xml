@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRequest_Book xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Request_Book>
+    <RequestID>2</RequestID>
+    <Inv_ID>1</Inv_ID>
+    <Req_QTY>2000</Req_QTY>
+    <Accept_QTY>1500</Accept_QTY>
+  </Request_Book>
+  <Request_Book>
+    <RequestID>2</RequestID>
+    <Inv_ID>2</Inv_ID>
+    <Req_QTY>1000</Req_QTY>
+    <Accept_QTY>1000</Accept_QTY>
+  </Request_Book>
+  <Request_Book>
+    <RequestID>2</RequestID>
+    <Inv_ID>3</Inv_ID>
+    <Req_QTY>2500</Req_QTY>
+    <Accept_QTY>2300</Accept_QTY>
+  </Request_Book>
+  <Request_Book>
+    <RequestID>3</RequestID>
+    <Inv_ID>2</Inv_ID>
+    <Req_QTY>2500</Req_QTY>
+    <Accept_QTY>2500</Accept_QTY>
+  </Request_Book>
+  <Request_Book>
+    <RequestID>4</RequestID>
+    <Inv_ID>1</Inv_ID>
+    <Req_QTY>2000</Req_QTY>
+    <Accept_QTY>2000</Accept_QTY>
+  </Request_Book>
+  <Request_Book>
+    <RequestID>4</RequestID>
+    <Inv_ID>3</Inv_ID>
+    <Req_QTY>3000</Req_QTY>
+    <Accept_QTY>3000</Accept_QTY>
+  </Request_Book>
+  <Request_Book>
+    <RequestID>5</RequestID>
+    <Inv_ID>2</Inv_ID>
+    <Req_QTY>2500</Req_QTY>
+    <Accept_QTY>2450</Accept_QTY>
+  </Request_Book>
+</ArrayOfRequest_Book>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Book>
+    <BookID>1</BookID>
+    <ISBN>11111</ISBN>
+    <Title>Advanced CSharp</Title>
+    <YearPublished>2014-05-25T00:00:00</YearPublished>
+    <CategoryID>4</CategoryID>
+  </Book>
+  <Book>
+    <BookID>2</BookID>
+    <ISBN>22222</ISBN>
+    <Title>UML</Title>
+    <YearPublished>2015-06-11T00:00:00</YearPublished>
+    <CategoryID>4</CategoryID>
+  </Book>
+  <Book>
+    <BookID>3</BookID>
+    <ISBN>33333</ISBN>
+    <Title>My Hero</Title>
+    <YearPublished>2016-10-15T00:00:00</YearPublished>
+    <CategoryID>3</CategoryID>
+  </Book>
+  <Book>
+    <BookID>4</BookID>
+    <ISBN>44444</ISBN>
+    <Title>Other Boook</Title>
+    <YearPublished>2016-08-10T00:00:00</YearPublished>
+    <CategoryID>5</CategoryID>
+  </Book>
+</ArrayOfBook>

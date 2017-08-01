@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Employee>
+    <EmployeeID>1</EmployeeID>
+    <FirstName>Henry</FirstName>
+    <LastName>Brown</LastName>
+    <JobID>1</JobID>
+    <UserID>9</UserID>
+  </Employee>
+  <Employee>
+    <EmployeeID>2</EmployeeID>
+    <FirstName>Thomas</FirstName>
+    <LastName>Moore</LastName>
+    <JobID>2</JobID>
+    <UserID>10</UserID>
+  </Employee>
+  <Employee>
+    <EmployeeID>3</EmployeeID>
+    <FirstName>Peter</FirstName>
+    <LastName>Wang</LastName>
+    <JobID>3</JobID>
+    <UserID>10</UserID>
+  </Employee>
+  <Employee>
+    <EmployeeID>4</EmployeeID>
+    <FirstName>Mary</FirstName>
+    <LastName>Brown</LastName>
+    <JobID>4</JobID>
+    <UserID>11</UserID>
+  </Employee>
+  <Employee>
+    <EmployeeID>5</EmployeeID>
+    <FirstName>Jennifer</FirstName>
+    <LastName>Bouchard</LastName>
+    <JobID>4</JobID>
+    <UserID>12</UserID>
+  </Employee>
+</ArrayOfEmployee>

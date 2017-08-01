@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRequest xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Request>
+    <RequestID>2</RequestID>
+    <ClerkID>2</ClerkID>
+    <Req_Date>2016-10-14T00:00:00</Req_Date>
+  </Request>
+  <Request>
+    <RequestID>3</RequestID>
+    <ClerkID>2</ClerkID>
+    <Req_Date>2016-10-19T00:00:00</Req_Date>
+  </Request>
+  <Request>
+    <RequestID>4</RequestID>
+    <ClerkID>2</ClerkID>
+    <Req_Date>2016-08-23T00:00:00</Req_Date>
+  </Request>
+  <Request>
+    <RequestID>5</RequestID>
+    <ClerkID>2</ClerkID>
+    <Req_Date>2016-01-01T00:00:00</Req_Date>
+  </Request>
+</ArrayOfRequest>

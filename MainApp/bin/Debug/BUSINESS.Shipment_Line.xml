@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShipment_Line xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Shipment_Line>
+    <SHIPID>1</SHIPID>
+    <InventoryID>1</InventoryID>
+    <SL_QTY>200</SL_QTY>
+    <SL_DATE_RECEIVED>2016-05-15T00:00:00</SL_DATE_RECEIVED>
+  </Shipment_Line>
+  <Shipment_Line>
+    <SHIPID>1</SHIPID>
+    <InventoryID>2</InventoryID>
+    <SL_QTY>250</SL_QTY>
+    <SL_DATE_RECEIVED>2016-05-15T00:00:00</SL_DATE_RECEIVED>
+  </Shipment_Line>
+  <Shipment_Line>
+    <SHIPID>2</SHIPID>
+    <InventoryID>3</InventoryID>
+    <SL_QTY>150</SL_QTY>
+    <SL_DATE_RECEIVED>2016-10-14T00:00:00</SL_DATE_RECEIVED>
+  </Shipment_Line>
+  <Shipment_Line>
+    <SHIPID>3</SHIPID>
+    <InventoryID>2</InventoryID>
+    <SL_QTY>300</SL_QTY>
+    <SL_DATE_RECEIVED>2016-11-01T00:00:00</SL_DATE_RECEIVED>
+  </Shipment_Line>
+  <Shipment_Line>
+    <SHIPID>3</SHIPID>
+    <InventoryID>3</InventoryID>
+    <SL_QTY>350</SL_QTY>
+    <SL_DATE_RECEIVED>2016-11-01T00:00:00</SL_DATE_RECEIVED>
+  </Shipment_Line>
+</ArrayOfShipment_Line>

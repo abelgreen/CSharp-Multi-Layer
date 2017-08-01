@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfReceive xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BUSINESS">
+  <Receive>
+    <ReceiveID>1</ReceiveID>
+    <PublisherID>6</PublisherID>
+    <ReciveDate>2014-08-25T00:00:00</ReciveDate>
+    <Discription>some kind of sheets</Discription>
+  </Receive>
+  <Receive>
+    <ReceiveID>2</ReceiveID>
+    <PublisherID>6</PublisherID>
+    <ReciveDate>2015-05-12T00:00:00</ReciveDate>
+    <Discription>blue Books</Discription>
+  </Receive>
+  <Receive>
+    <ReceiveID>3</ReceiveID>
+    <PublisherID>7</PublisherID>
+    <ReciveDate>2016-09-12T00:00:00</ReciveDate>
+    <Discription>Red Fication Book</Discription>
+  </Receive>
+  <Receive>
+    <ReceiveID>4</ReceiveID>
+    <PublisherID>7</PublisherID>
+    <ReciveDate>2016-01-01T00:00:00</ReciveDate>
+    <Discription>New Year Book</Discription>
+  </Receive>
+</ArrayOfReceive>
